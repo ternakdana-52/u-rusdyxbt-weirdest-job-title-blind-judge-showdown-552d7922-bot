@@ -9,7 +9,7 @@ no randomness.
 import os
 import sys
 
-TITLE = "Chief Morale Officer for Abandoned Shopping Carts"
+TITLE = "Lead Investigator, Office Fridge Crimes Division"
 
 MAX_CHARS = 60
 

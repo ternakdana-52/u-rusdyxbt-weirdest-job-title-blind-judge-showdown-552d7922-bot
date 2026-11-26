@@ -1,4 +1,4 @@
-# Chief Morale Officer for Abandoned Shopping Carts
+# Lead Investigator, Office Fridge Crimes Division
 
 [![make.fun · u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 [![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/ternakdana-52/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922-bot/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
@@ -8,10 +8,11 @@ Entry for the make.fun bounty [Weirdest Job Title: Blind Judge Showdown](https:/
 
 ## The title
 
-> Chief Morale Officer for Abandoned Shopping Carts
+> Lead Investigator, Office Fridge Crimes Division
 
-49 characters. Somewhere out there, a person in a hi-vis vest is pep-talking
-lonely shopping carts in a car park, telling them they are still wanted.
+48 characters. Somewhere out there, a detective in a lab coat is dusting a
+yoghurt pot for fingerprints, because someone's lunch has gone missing again
+and this time it is personal.
 
 ## How it works
 
